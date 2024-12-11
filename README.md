@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi! I'm Arsenii, a full-stack developer</div>  
+### <div align="center">Hi! I'm a JavaScript Software Engineer</div>  
   
 
 - 🔭 I've been learning to code for 4 years  
   
 
-- ⚡ Mostly I worked with Javascript, both backend and frontend frameworks. My commercial experience is 2+ years  
+- ⚡ Mostly I worked with Javascript, both backend and frontend frameworks.  
   
 
 - 🌱 I’m currently learning .Net  
