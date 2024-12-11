@@ -13,13 +13,21 @@
 <br/>  
 ## My Skill Set  
 — Programming languages: JavaScript, TypeScript, C# (Base), Solidity (Base)
+
 — JavaScript FE: React, React Native, Redux Toolkit
-— JavaScript BE: Node.js, Nest.js, WebSockets, TypeORM, Prisma, GraphQL 
+
+— JavaScript BE: Node.js, Nest.js, WebSockets, TypeORM, Prisma, GraphQL
+
 — Databases: PostgreSQL, MongoDB, Redis
+
 — Design: HTML / CSS, SCSS, TailwindCSS, MUI
+
 — Unit Testing and Code Analysis: Jest, ESlint
+
 — Knowledges: MVC, FSD, SOLID, GitFlow 
+
 — Version Control System: Git
+
 — Virtualization: Docker
 <br/>  
 
