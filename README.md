@@ -1,35 +1,20 @@
 ### <div align="center">Hi! I'm a JavaScript Software Engineer</div>  
+- 🔭 I've been learning to code for 4 years
+ 
+- ⚡ Mostly I worked with Javascript, both backend and frontend frameworks.
   
-
-- 🔭 I've been learning to code for 4 years  
-  
-
-- ⚡ Mostly I worked with Javascript, both backend and frontend frameworks.  
-  
-
 - 🌱 I’m currently learning .Net  
-  
 
-<br/>  
 ## My Skill Set  
-— Programming languages: JavaScript, TypeScript, C# (Base), Solidity (Base)
-
-— JavaScript FE: React, React Native, Redux Toolkit
-
-— JavaScript BE: Node.js, Nest.js, WebSockets, TypeORM, Prisma, GraphQL
-
-— Databases: PostgreSQL, MongoDB, Redis
-
-— Design: HTML / CSS, SCSS, TailwindCSS, MUI
-
-— Unit Testing and Code Analysis: Jest, ESlint
-
-— Knowledges: MVC, FSD, SOLID, GitFlow 
-
-— Version Control System: Git
-
-— Virtualization: Docker
-<br/>  
+- Programming languages: JavaScript, TypeScript, C# (Base), Solidity (Base)
+- JavaScript FE: React, React Native, Redux Toolkit
+- JavaScript BE: Node.js, Nest.js, WebSockets, TypeORM, Prisma, GraphQL
+- Databases: PostgreSQL, MongoDB, Redis
+- Design: HTML / CSS, SCSS, TailwindCSS, MUI
+- Unit Testing and Code Analysis: Jest, ESlint
+- Knowledges: MVC, FSD, SOLID, GitFlow 
+- Version Control System: Git
+- Virtualization: Docker
 
 ## Connect with me  
 <div align="center">
